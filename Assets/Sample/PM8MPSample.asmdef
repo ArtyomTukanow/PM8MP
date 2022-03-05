@@ -1,0 +1,22 @@
+{
+    "name": "PM8MPSample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f41269c3d1d37bf4eadc2ae1667b4ca2",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:02accb0d5b8eb3f46aed749d0619df91",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:8cc1c7a720dba9046941325e7082fbfc",
+        "GUID:e048eeec9bdb9d30448017b829deb3f6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
